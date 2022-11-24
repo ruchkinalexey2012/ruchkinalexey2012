@@ -1,8 +1,2 @@
-<<<<<<< HEAD
 Test3
-=======
-Woah
-fut
-fut2
-res
->>>>>>> another_branch
+
